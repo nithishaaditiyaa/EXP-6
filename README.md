@@ -35,6 +35,7 @@ OBSERVATION TABLE :
 <img width="1112" height="729" alt="image" src="https://github.com/user-attachments/assets/979cef6c-27dd-42a2-a732-f19aa592113d" />
 
 
+
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
@@ -45,4 +46,3 @@ RESULT:
 
 LVDT was studied well and graph of displacement was linear for a particular range.
 
-RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
